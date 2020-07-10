@@ -9,7 +9,7 @@ function yourAnimal() { var animal = 'cat';
   console.log(animal)}
 
   return animal;
-}
+
 
 function add2(n) {
   return n + two
